@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/competition/static/css/main.f98ae861.css",
+    "main.js": "/competition/static/js/main.5a06ac74.js",
+    "static/js/787.d01b24ef.chunk.js": "/competition/static/js/787.d01b24ef.chunk.js",
+    "static/media/spiderman.png": "/competition/static/media/spiderman.9e0ff8923bc9081ff6c4.png",
+    "index.html": "/competition/index.html",
+    "main.f98ae861.css.map": "/competition/static/css/main.f98ae861.css.map",
+    "main.5a06ac74.js.map": "/competition/static/js/main.5a06ac74.js.map",
+    "787.d01b24ef.chunk.js.map": "/competition/static/js/787.d01b24ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f98ae861.css",
+    "static/js/main.5a06ac74.js"
+  ]
+}
